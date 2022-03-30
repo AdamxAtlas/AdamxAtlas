@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamxAtlas
 - 👀 I’m interested in ... Music, Sound/Audio Design, Game Development
-- 🌱 I’m currently learning ... C++, Javascript, Python, 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... C++, Javascript, Python
+- 💞️ I’m looking to collaborate on ... Not sure yet!
 - 📫 How to reach me ... Email: adamxatlas@gmail.com IG: @adamxatlas
 
 <!---
